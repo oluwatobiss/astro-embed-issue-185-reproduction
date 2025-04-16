@@ -1,8 +1,8 @@
 ---
-title: Astro Embed Test
-date: 2025-02-18
+title: Starlight Blog and Astro Embed Test
+date: 2025-04-16
 ---
 
 ## Astro Embed Conflicts with Starlight Blog
 
-There seems a CSS conflict between Astro Embed 0.9.0 and Starlight Blog 0.17.2.
+There is a styling issue when using Starlight Blog v0.20.0 and Astro Embed v0.9.0.

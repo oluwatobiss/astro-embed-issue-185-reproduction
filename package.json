@@ -13,6 +13,7 @@
     "@astrojs/starlight": "^0.33.2",
     "astro": "^5.7.0",
     "astro-embed": "^0.9.0",
-    "sharp": "^0.34.1"
+    "sharp": "^0.34.1",
+    "starlight-blog": "^0.20.0"
   }
 }
